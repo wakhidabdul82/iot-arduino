@@ -20,3 +20,12 @@ Simple IoT Industry Project for Protecting System using Arduino Mega & Blynk App
 
  For Windows Usage :
     Place <strong>libraries</strong> folder on My Document -> Arduino.
+    
+ ## Schematic Diagram
+ 
+ ![DIAGRAM SKEMATIK RANGKAIAN SISTEM](https://user-images.githubusercontent.com/42265394/152279971-310d7d57-06e4-4137-b32a-c37cea224f84.png)
+
+## Image on Blynk App
+
+![sc01](https://user-images.githubusercontent.com/42265394/152280035-ce9005df-88b9-4108-a295-08422b76b50b.png)
+![Sc02](https://user-images.githubusercontent.com/42265394/152280041-68fc4a9e-858c-4fe8-8e2d-b67f45e8e71a.png)
