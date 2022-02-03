@@ -11,7 +11,7 @@ LiquidCrystal_I2C lcd(0x27, 16, 2);
 
 // Copy Paste Kode Autentifikasi yang terdapat di blynk apps ke Char Auth.
 // Setiap pembuatan project baru akan memdapatkan kode autentifikasi baru juga.
-char auth[] = "9aHYreBZwUfxwKnwzWN6TvFpipmzK6XO";
+char auth[] = "9aHYreBZwUfxwKnwzWN6TvFpjpmzK6XO";
 
 // Buat wifi dengan menggunakan Smartphone sebagai media transfer data.
 char ssid[] = "namawifi";
